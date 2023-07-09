@@ -21,3 +21,5 @@ DecibelEndorseFootwearRocklike
 ```
 python3 pass.py -n 10
 ```
+
+Wordlist by https://github.com/dmuth
