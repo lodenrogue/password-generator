@@ -6,7 +6,7 @@ This password generator outputs random word passwords.
 
 ## Usage
 
-```python
+```
 python3 pass.py
 ```
 
@@ -18,6 +18,6 @@ DecibelEndorseFootwearRocklike
 
 ### Choose output length
 
-```python
+```
 python3 pass.py -n 10
 ```
